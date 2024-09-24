@@ -10,30 +10,53 @@ JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000
 🇨🇳常看经典频道,#genre#
 孤勇者,https://gitee.com/lv8932/tt/raw/master/GuYongZhe.mp4
 大风吹,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
+左手指月,https://7451.kstore.space/%E5%B7%A6%E6%89%8B%E6%8C%87%E6%9C%88_%E8%90%A8%E9%A1%B6%E9%A1%B6.mp4?password=a3c99eef190cbcb147e7aa0b6bf116bf-1727200681779
+左手指月,https://raw.githubusercontent.com/lv8932/tt/refs/heads/main/%E5%B7%A6%E6%89%8B%E6%8C%87%E6%9C%88_%E8%90%A8%E9%A1%B6%E9%A1%B6.mp4
+
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-正版经典小品,https://openhls-tct.douyucdn2.cn/dyliveflv3a/9067836rtKh0VgPK_900.m3u8?txSecret=f158fcb49b223094e43a95c21b15b85e&txTime=66f12cdc&token=h5-douyu-0-9067836-3ce5d45264978061a390ce19056acda9&did=a2bcb44bb72c43306bcb6350000917p1&origin=tct&vhost=play4&sid=400036447
 重温春晚爆笑经典小品,https://hs.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv?wsSecret=3545f1502d4e3347d7cb5fd99e68af71&wsTime=66f10c64&seqid=8792658479567&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7065671496573&uuid=3366090523&t=103&sv=202409061138&sdk_sid=1726986982918&a_block=0
 
 庆余年,https://tx.flv.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.flv?wsSecret=a33c39e856eae3af9ee5e0f5c9b971d6&wsTime=66f264e5&seqid=10726423891171&ctype=tars_mobile&ver=1&txyp=o%3Aczeic1%3B&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=8999348715744&uuid=1364225280&t=103&sv=202409061138&sdk_sid=1727075175363&a_block=0
-庆余年,https://openhls-tct.douyucdn2.cn/dyliveflv3a/428402rbY4zzXMgv_900.m3u8?txSecret=25c07f358e68eecd086b2cac31c70208&txTime=66efd0d2&token=h5-douyu-0-428402-cb0b189e24e815c32aade42afbee5eaa&did=a2bcb44bb72c43306bcb6350000917p1&origin=tct&vhost=play4&sid=400280945
+庆余年,http://diyp.zxxoo.work/douyu/5062195
 庆余年,http://cfss.cc/cdn/hy/11352960.flv
 庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
 庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
 庆余年,http://43.138.170.29:35455/douyu/11880121
 庆余年,http://159.75.85.63:35455/huya/11352960?cdn=txcdn
 庆余年,https://live.metshop.top/huya/11352960
-
+知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
 知否知否,http://11.xmyxc.cn/api/php/yy.php?id=21881901&uid=461123160
 知否知否,http://live.iill.top/yy.php?id=21881901
 知否知否,https://live.metshop.top/yy/21881901
 知否知否,http://43.138.170.29:35455/yy/21881901
 知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?
-唐人街宝强,https://tx.flv.huya.com/src/63220890-63220890-271531654974013440-126565236-10057-A-0-1.flv?wsSecret=d32ef58ad3401363e679b6f17e25d0e0&wsTime=66f26338&seqid=5419567910139&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=3692493163350&uuid=935564872&t=103&sv=202409061138&sdk_sid=1727074746702&a_block=0
+琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
+羋月传,http://cfss.cc/cdn/hy/11352975.m3u8
+雪中悍刀行,https://lunbo.freetv.top/yy/1382660835
 雪中悍刀行,http://cfss.cc/cdn/hy/11336592.m3u8
 雪中悍刀行,https://al.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv?wsSecret=8a2ed7f4530cf9f749019a741b68cc44&wsTime=66f26571&seqid=6117498845994&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=4390423530449&uuid=1504331214&t=103&sv=202409061138&sdk_sid=1727075315469&a_block=0
 厕所毒舌徐凤年,https://hw.flv.huya.com/src/1099531840880-1099531840880-86814620630646784-2199063805216-10057-A-0-1.flv?wsSecret=534a0ef8f44047369604589d9730d308&wsTime=66f10e2a&seqid=6819522159648&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=5092534723138&uuid=3819631038&t=103&sv=202409061138&sdk_sid=1726987436456&a_block=0
 延禧攻略,http://live.iill.top/huya.php?id=26355864
 延禧攻略,https://hw.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.flv?wsSecret=3f3103493c6b5436685fdd42573859b4&wsTime=66f26422&seqid=8077876302503&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=6350801321827&uuid=1169460713&t=103&sv=202409061138&sdk_sid=1727074980599&a_block=0
+神医喜来乐,https://lunbo.freetv.top/yy/1382714119
+神医喜来乐,http://124.248.69.76:35455/yy/1382714119
+神医喜来乐,http://cfss.cc/cdn/yy/1382714119.flv
+神医喜来乐,http://11.xmyxc.cn/api/php/yy.php?id=1382714119&uid=2244059750
+武林外传,http://11.xmyxc.cn/api/php/yy.php?id=411376
+武林外传,http://11.xmyxc.cn/api/php/yy.php?id=1355652820
+武林外传,http://zby.xjqxz.top/live10/live.m3u8
+武林外传,http://124.248.69.76:35455/yy/1355652820
+伪装者,http://124.248.69.76:35455/yy/1382851593
+伪装者,http://11.xmyxc.cn/api/php/yy.php?id=1382851593
+甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
+狂飙,http://zby.xjqxz.top/live9/live.m3u8
+
+少年包青天,http://11.xmyxc.cn/api/php/yy.php?id=1356043677
+少年包青天,http://124.248.69.76:35455/yy/1356043677
+少年包青天,https://hs.flv.huya.com/huyalive/1199641962638-1199641962638-5781399874498985984-2399284048732-10057-A-0-1.flv?wsSecret=201d996ec7c18f1c591a08c284c4bb81&wsTime=66f1086e&seqid=9380119681161&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7653133707274&uuid=2356996267&t=103&sv=202409061138&sdk_sid=1726985973821&a_block=0
+少年包青天,https://hs.flv.huya.com/huyalive/1199640838194-1199640838194-5776570424292802560-2399281799844-10057-A-0-1.flv?wsSecret=60aef0b12f839de042951402b0ff8053&wsTime=66f1708d&seqid=3191871233500&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=500&dMod=mseh-0&sdkPcdn=2_1&uid=1464858609442&uuid=3237355463&t=103&sv=202409061138&sdk_sid=1727012623983&a_block=0
+笑傲江湖,http://11.xmyxc.cn/api/php/yy.php
+如懿传,https://txdirect.flv.huya.com/huyalive/1239543150223-1239543150223-11134998960249241600-2479086423902-10057-A-0-1.flv?wsSecret=ef1e62bea47903f3b33d275be838b5e7&wsTime=66f108b5&seqid=9243567800118&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7516581760506&uuid=2422714459&t=103&sv=202409061138&sdk_sid=1726986039539&a_block=0
 99部必看大片,https://txdirect.flv.huya.com/huyalive/1199646315726-1199646315726-5800096245095596032-2399292754908-10057-A-0-1.flv?wsSecret=e595e21264a51376831c8d0cf99263f9&wsTime=66f2647f&seqid=6452508195290&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=4725433121970&uuid=1262119029&t=103&sv=202409061138&sdk_sid=1727075073257&a_block=0
 苏大强,https://hw.flv.huya.com/src/1099531752784-1099531752784-86436251191738368-2199063629024-10057-A-0-1.flv?wsSecret=e37f82b5a899c3d5c78dfb6342e58d2c&wsTime=66f2661e&seqid=5566148682164&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=3839073194051&uuid=1676908154&t=103&sv=202409061138&sdk_sid=1727075488046&a_block=0
 鹿鼎记陈小春版,https://hw.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv?wsSecret=d9c47887a4049aa6075186e730412016&wsTime=66f10f55&seqid=7435245376835&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=5708257641872&uuid=4118078621&t=103&sv=202409061138&sdk_sid=1726987734903&a_block=0
@@ -61,16 +84,9 @@ JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000
 电影轮播二,http://zby.xjqxz.top/live7/live.m3u8
 电影轮播三,http://zby.xjqxz.top/live13/live.m3u8
 电影轮播四,http://zby.xjqxz.top/live18/live.m3u8
-甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
-狂飙,http://zby.xjqxz.top/live9/live.m3u8
-武林外传,http://zby.xjqxz.top/live10/live.m3u8
-少年包青天,https://hs.flv.huya.com/huyalive/1199641962638-1199641962638-5781399874498985984-2399284048732-10057-A-0-1.flv?wsSecret=201d996ec7c18f1c591a08c284c4bb81&wsTime=66f1086e&seqid=9380119681161&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7653133707274&uuid=2356996267&t=103&sv=202409061138&sdk_sid=1726985973821&a_block=0
-少年包青天,https://hs.flv.huya.com/huyalive/1199640838194-1199640838194-5776570424292802560-2399281799844-10057-A-0-1.flv?wsSecret=60aef0b12f839de042951402b0ff8053&wsTime=66f1708d&seqid=3191871233500&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=500&dMod=mseh-0&sdkPcdn=2_1&uid=1464858609442&uuid=3237355463&t=103&sv=202409061138&sdk_sid=1727012623983&a_block=0
 
-笑傲江湖,http://11.xmyxc.cn/api/php/yy.php
-如懿传,https://txdirect.flv.huya.com/huyalive/1239543150223-1239543150223-11134998960249241600-2479086423902-10057-A-0-1.flv?wsSecret=ef1e62bea47903f3b33d275be838b5e7&wsTime=66f108b5&seqid=9243567800118&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7516581760506&uuid=2422714459&t=103&sv=202409061138&sdk_sid=1726986039539&a_block=0
 开端电视轮播,http://cfss.cc/cdn/hy/11342397.m3u8
-神医喜来乐,http://11.xmyxc.cn/api/php/yy.php?id=1382714119&uid=2244059750
+
 赵本山小品,http://11.xmyxc.cn/api/php/yy.php?id=32160832&uid=2361867875
 yy小品,http://11.xmyxc.cn/api/php/yy.php?id=1354931503
 yy小品二,http://11.xmyxc.cn/api/php/yy.php?id=1382741642
@@ -100,6 +116,7 @@ yy电视剧,http://11.xmyxc.cn/api/php/yy.php?id=28099939
 yy电视剧一,http://11.xmyxc.cn/api/php/yy.php?id=1455460998
 电视剧三十五,http://11.xmyxc.cn/api/php/yy.php?id=1382764587
 🇨🇳电影解说频道,#genre#
+
 牛叔说电影,https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_900.m3u8?txSecret=1e93bf8c52960437bca43157e476a556&txTime=66f124b0&token=h5-douyu-0-2758565-c142ea62473f706bcf0813674dcd0975&did=73fa872710b8dac6d47f34ee000017p1&origin=tct&vhost=play1&sid=399567909
 
 牛叔说电影2,https://openhls-tct.douyucdn2.cn/dyliveflv3/10010651rTtT53Xi_900.m3u8?txSecret=5ecdf32db9a81313ead75c15e1101919&txTime=66f12ba3&token=h5-douyu-0-10010651-a72149aa7ceb86265e377d3c3a26ddf1&did=a2bcb44bb72c43306bcb6350000917p1&origin=tct&vhost=play3&sid=400224705
