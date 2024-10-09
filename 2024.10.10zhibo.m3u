@@ -1,0 +1,553 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇨🇳JJ斗地主频道",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="🇨🇳JJ斗地主频道",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="🇨🇳JJ斗地主频道",JJ斗地主
+http://120.221.179.108:80/tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2&TxLiveCode=cold_stream&svr_type=live_oc&tencent_test_client_ip=120.208.55.184&dispatch_from=OC_MGR120.222.239.79&utime=1680617557817
+#EXTINF:-1 group-title="🇨🇳JJ斗地主频道",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8
+#EXTINF:-1 group-title="🇨🇳JJ斗地主频道",JJ斗地主赛事「IPV6」
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="🇨🇳JJ斗地主频道",JJ斗地主
+http://www.xuran1983.cn:888/douyu.php?id=488743
+#EXTINF:-1 group-title="🇨🇳JJ斗地主频道",JJ斗地主
+http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",孤勇者
+https://gitee.com/lv8932/tt/raw/master/GuYongZhe.mp4
+#EXTINF:-1 group-title="🇨🇳常看经典频道",大风吹
+http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
+#EXTINF:-1 group-title="🇨🇳常看经典频道",左手指月
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/lv8932/tt/refs/heads/main/%E5%B7%A6%E6%89%8B%E6%8C%87%E6%9C%88_%E8%90%A8%E9%A1%B6%E9%A1%B6.mp4
+#EXTINF:-1 group-title="🇨🇳常看经典频道",500首华语经典
+http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+#EXTINF:-1 group-title="🇨🇳常看经典频道",重温春晚爆笑经典小品
+https://hs.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv?wsSecret=3545f1502d4e3347d7cb5fd99e68af71&wsTime=66f10c64&seqid=8792658479567&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7065671496573&uuid=3366090523&t=103&sv=202409061138&sdk_sid=1726986982918&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",CHC影迷电影
+http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+#EXTINF:-1 group-title="🇨🇳常看经典频道",CHC动作电影
+http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+#EXTINF:-1 group-title="🇨🇳常看经典频道",CHC家庭影院
+http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+https://tx.flv.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.flv?wsSecret=a33c39e856eae3af9ee5e0f5c9b971d6&wsTime=66f264e5&seqid=10726423891171&ctype=tars_mobile&ver=1&txyp=o%3Aczeic1%3B&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=8999348715744&uuid=1364225280&t=103&sv=202409061138&sdk_sid=1727075175363&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+http://diyp.zxxoo.work/douyu/5062195
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+http://cfss.cc/cdn/hy/11352960.flv
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+http://cfss.cc/cdn/hy/11352960.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+http://cfss.cc/cdn/hy/11352960.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+http://43.138.170.29:35455/douyu/11880121
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+http://159.75.85.63:35455/huya/11352960?cdn=txcdn
+#EXTINF:-1 group-title="🇨🇳常看经典频道",庆余年
+https://live.metshop.top/huya/11352960
+#EXTINF:-1 group-title="🇨🇳常看经典频道",知否知否
+http://zby.xjqxz.top/zfzf/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",知否知否
+http://11.xmyxc.cn/api/php/yy.php?id=21881901&uid=461123160
+#EXTINF:-1 group-title="🇨🇳常看经典频道",知否知否
+http://live.iill.top/yy.php?id=21881901
+#EXTINF:-1 group-title="🇨🇳常看经典频道",知否知否
+https://live.metshop.top/yy/21881901
+#EXTINF:-1 group-title="🇨🇳常看经典频道",知否知否
+http://43.138.170.29:35455/yy/21881901
+#EXTINF:-1 group-title="🇨🇳常看经典频道",知否知否
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?
+#EXTINF:-1 group-title="🇨🇳常看经典频道",琅琊榜
+http://zby.xjqxz.top/lyb/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",羋月传
+http://cfss.cc/cdn/hy/11352975.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",雪中悍刀行
+https://lunbo.freetv.top/yy/1382660835
+#EXTINF:-1 group-title="🇨🇳常看经典频道",雪中悍刀行
+http://cfss.cc/cdn/hy/11336592.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",雪中悍刀行
+https://al.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.flv?wsSecret=8a2ed7f4530cf9f749019a741b68cc44&wsTime=66f26571&seqid=6117498845994&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=4390423530449&uuid=1504331214&t=103&sv=202409061138&sdk_sid=1727075315469&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",厕所毒舌徐凤年
+https://hw.flv.huya.com/src/1099531840880-1099531840880-86814620630646784-2199063805216-10057-A-0-1.flv?wsSecret=534a0ef8f44047369604589d9730d308&wsTime=66f10e2a&seqid=6819522159648&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=5092534723138&uuid=3819631038&t=103&sv=202409061138&sdk_sid=1726987436456&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",延禧攻略
+http://live.iill.top/huya.php?id=26355864
+#EXTINF:-1 group-title="🇨🇳常看经典频道",延禧攻略
+https://hw.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.flv?wsSecret=3f3103493c6b5436685fdd42573859b4&wsTime=66f26422&seqid=8077876302503&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=6350801321827&uuid=1169460713&t=103&sv=202409061138&sdk_sid=1727074980599&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",神医喜来乐
+https://lunbo.freetv.top/yy/1382714119
+#EXTINF:-1 group-title="🇨🇳常看经典频道",神医喜来乐
+http://124.248.69.76:35455/yy/1382714119
+#EXTINF:-1 group-title="🇨🇳常看经典频道",神医喜来乐
+http://cfss.cc/cdn/yy/1382714119.flv
+#EXTINF:-1 group-title="🇨🇳常看经典频道",神医喜来乐
+http://11.xmyxc.cn/api/php/yy.php?id=1382714119&uid=2244059750
+#EXTINF:-1 group-title="🇨🇳常看经典频道",武林外传
+http://11.xmyxc.cn/api/php/yy.php?id=411376
+#EXTINF:-1 group-title="🇨🇳常看经典频道",武林外传
+http://11.xmyxc.cn/api/php/yy.php?id=1355652820
+#EXTINF:-1 group-title="🇨🇳常看经典频道",武林外传
+http://zby.xjqxz.top/live10/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",武林外传
+http://124.248.69.76:35455/yy/1355652820
+#EXTINF:-1 group-title="🇨🇳常看经典频道",伪装者
+http://124.248.69.76:35455/yy/1382851593
+#EXTINF:-1 group-title="🇨🇳常看经典频道",伪装者
+http://11.xmyxc.cn/api/php/yy.php?id=1382851593
+#EXTINF:-1 group-title="🇨🇳常看经典频道",甄嬛传
+http://zby.xjqxz.top/live8/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",狂飙
+http://zby.xjqxz.top/live9/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",少年包青天
+http://11.xmyxc.cn/api/php/yy.php?id=1356043677
+#EXTINF:-1 group-title="🇨🇳常看经典频道",少年包青天
+http://124.248.69.76:35455/yy/1356043677
+#EXTINF:-1 group-title="🇨🇳常看经典频道",少年包青天
+https://hs.flv.huya.com/huyalive/1199641962638-1199641962638-5781399874498985984-2399284048732-10057-A-0-1.flv?wsSecret=201d996ec7c18f1c591a08c284c4bb81&wsTime=66f1086e&seqid=9380119681161&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7653133707274&uuid=2356996267&t=103&sv=202409061138&sdk_sid=1726985973821&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",少年包青天
+https://hs.flv.huya.com/huyalive/1199640838194-1199640838194-5776570424292802560-2399281799844-10057-A-0-1.flv?wsSecret=60aef0b12f839de042951402b0ff8053&wsTime=66f1708d&seqid=3191871233500&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=500&dMod=mseh-0&sdkPcdn=2_1&uid=1464858609442&uuid=3237355463&t=103&sv=202409061138&sdk_sid=1727012623983&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",笑傲江湖
+http://11.xmyxc.cn/api/php/yy.php
+#EXTINF:-1 group-title="🇨🇳常看经典频道",如懿传
+https://txdirect.flv.huya.com/huyalive/1239543150223-1239543150223-11134998960249241600-2479086423902-10057-A-0-1.flv?wsSecret=ef1e62bea47903f3b33d275be838b5e7&wsTime=66f108b5&seqid=9243567800118&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=7516581760506&uuid=2422714459&t=103&sv=202409061138&sdk_sid=1726986039539&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",99部必看大片
+https://txdirect.flv.huya.com/huyalive/1199646315726-1199646315726-5800096245095596032-2399292754908-10057-A-0-1.flv?wsSecret=e595e21264a51376831c8d0cf99263f9&wsTime=66f2647f&seqid=6452508195290&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=4725433121970&uuid=1262119029&t=103&sv=202409061138&sdk_sid=1727075073257&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",苏大强
+https://hw.flv.huya.com/src/1099531752784-1099531752784-86436251191738368-2199063629024-10057-A-0-1.flv?wsSecret=e37f82b5a899c3d5c78dfb6342e58d2c&wsTime=66f2661e&seqid=5566148682164&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=3839073194051&uuid=1676908154&t=103&sv=202409061138&sdk_sid=1727075488046&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",鹿鼎记陈小春版
+https://hw.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv?wsSecret=d9c47887a4049aa6075186e730412016&wsTime=66f10f55&seqid=7435245376835&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=5708257641872&uuid=4118078621&t=103&sv=202409061138&sdk_sid=1726987734903&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",历年贺岁电影
+https://al.flv.huya.com/huyalive/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv?wsSecret=01be79eedf0e176ad6cfb0f3b9d3375f&wsTime=66f10ff6&seqid=4476759961944&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=2749772053357&uuid=4291720166&t=103&sv=202409061138&sdk_sid=1726987908545&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",医馆笑传
+https://al.flv.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.flv?wsSecret=ad07227bb60b2e8ad1dc80a02b1710d8&wsTime=66f2665f&seqid=2714416062566&ctype=tars_mobile&ver=1&txyp=o%3Atyeic12%3B&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=987340508804&uuid=1742562091&t=103&sv=202409061138&sdk_sid=1727075553700&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",历年贺岁档
+https://al.flv.huya.com/huyalive/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv?wsSecret=34b41272ef51ee7e2930e7cb6961a713&wsTime=66f266db&seqid=6952564333720&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=5225488656047&uuid=1866488960&t=103&sv=202409061138&sdk_sid=1727075677627&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",家人们我笑麻了
+https://tx.flv.huya.com/huyalive/1099531752803-1099531752803-86436332796116992-2199063629062-10057-A-0-1.flv?wsSecret=4baab4b633a758b3ceaee2552cdd2ade&wsTime=66f26747&seqid=4257701075076&ctype=tars_mobile&ver=1&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=2530625289211&uuid=1974672892&t=103&sv=202409061138&sdk_sid=1727075785811&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",1905电影(国际)
+http://xxw.me0.cn/1905dy.php?id=1905b#http://xxw.me0.cn/1905dy.php?id=1905b
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播1
+http://cfss.cc/cdn/hy/11342429.flv
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播2
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播3
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播4
+http://cfss.cc/cdn/hy/11342390.flv
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播5
+http://cfss.cc/cdn/hy/11602058.flv
+#EXTINF:-1 group-title="🇨🇳常看经典频道",成龙
+http://zby.xjqxz.top/cldy/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",李连杰
+http://zby.xjqxz.top/lljdy/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",李连杰武打高产王
+https://hw.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv?wsSecret=06e15b18a208d46064bb1e4585d9fa19&wsTime=66f10d6d&seqid=10919372106286&ctype=tars_mobile&ver=1&txyp=o%3Awx6%3B&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=9192384852717&uuid=3636686981&t=103&sv=202409061138&sdk_sid=1726987253512&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",李连杰专场
+https://aldirect.flv.huya.com/huyalive/1279538193328-1279538193328-16891704434948571136-2559076510112-10057-A-0-1.flv?wsSecret=089a1e627ed475cd6cd87ec61f90ef10&wsTime=66f10fc4&seqid=2169782017992&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=442794171853&uuid=4229267630&t=103&sv=202409061138&sdk_sid=1726987846093&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",周星驰
+http://zby.xjqxz.top/live12/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",周星星
+https://qvodlive-va.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=d2c2b4ed0dd1849d2cbc588870e3160b&wsTime=66f10ebc&seqid=10834653525024&ctype=tars_mobile&ver=1&txyp=o%3An4%3B&fs=bgct&t=103&ratio=2000&&https=1&dMod=mseh-0&sdkPcdn=1_1&uid=9107665914478&uuid=3993646089&t=103&sv=202409061138&sdk_sid=1726987610470&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",周星星2
+https://aldirect.flv.huya.com/huyalive/1199530246030-1199530246030-5301580696718934016-2399060615516-10057-A-0-1.flv?wsSecret=5849cc0b8dd2d19ced9abc01acdb4ad3&wsTime=66f10f21&seqid=2292353995971&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=565366312681&uuid=4066395506&t=103&sv=202409061138&sdk_sid=1726987683222&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",猫和老鼠
+https://hs.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=0fae23e61996a9cb48645e555ef16409&wsTime=66f10df0&seqid=5100551432826&ctype=tars_mobile&ver=1&txyp=o%3Aqzeic1%3B&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=3373564054038&uuid=3761921148&t=103&sv=202409061138&sdk_sid=1726987378745&a_block=0
+#EXTINF:-1 group-title="🇨🇳常看经典频道",脱口秀大会播
+http://cfss.cc/cdn/hy/11352875.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播一
+http://zby.xjqxz.top/live5/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播二
+http://zby.xjqxz.top/live7/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播三
+http://zby.xjqxz.top/live13/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电影轮播四
+http://zby.xjqxz.top/live18/live.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",开端电视轮播
+http://cfss.cc/cdn/hy/11342397.m3u8
+#EXTINF:-1 group-title="🇨🇳常看经典频道",赵本山小品
+http://11.xmyxc.cn/api/php/yy.php?id=32160832&uid=2361867875
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy小品
+http://11.xmyxc.cn/api/php/yy.php?id=1354931503
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy小品二
+http://11.xmyxc.cn/api/php/yy.php?id=1382741642
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy小品三
+http://11.xmyxc.cn/api/php/yy.php?id=1354936198
+#EXTINF:-1 group-title="🇨🇳常看经典频道",绝版电影
+http://11.xmyxc.cn/api/php/yy.php?id=1454587259&uid=67381238
+#EXTINF:-1 group-title="🇨🇳常看经典频道",射雕英雄传
+http://11.xmyxc.cn/api/php/yy.php?id=1354210357
+#EXTINF:-1 group-title="🇨🇳常看经典频道",徐峥黄渤
+http://11.xmyxc.cn/api/php/huya.php?id=11352876
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影二
+http://11.xmyxc.cn/api/php/yy.php?id=1382749892
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影三
+http://11.xmyxc.cn/api/php/yy.php?id=1382735573
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影四
+http://11.xmyxc.cn/api/php/yy.php?id=24921161
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影六
+http://11.xmyxc.cn/api/php/yy.php?id=1382736803
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影七
+http://11.xmyxc.cn/api/php/yy.php?id=1354930924
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影八
+http://11.xmyxc.cn/api/php/yy.php?id=1382745095
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影九
+http://11.xmyxc.cn/api/php/yy.php?id=1355171357
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电影十
+http://11.xmyxc.cn/api/php/yy.php?id=24066336
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY電影-林正英三
+http://11.xmyxc.cn/api/php/yy.php?id=1351505899
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY電影-林正英四
+http://11.xmyxc.cn/api/php/yy.php?id=1353685311
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY電影-電影輪播一
+http://11.xmyxc.cn/api/php/yy.php?id=1353059120
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY電影-歐美電影
+http://11.xmyxc.cn/api/php/yy.php?id=24923327
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY電影-歐美科幻
+http://11.xmyxc.cn/api/php/yy.php?id=37988782
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY電影-歐美動作電影
+http://11.xmyxc.cn/api/php/yy.php?id=1382745089
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY連續劇四
+http://11.xmyxc.cn/api/php/yy.php?id=1352227227
+#EXTINF:-1 group-title="🇨🇳常看经典频道",YY影视
+http://11.xmyxc.cn/api/php/yy.php?id=1382702247
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy经典怀旧
+http://11.xmyxc.cn/api/php/yy.php?id=1382627144
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电视剧二
+http://11.xmyxc.cn/api/php/yy.php?id=1354143966
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电视剧
+http://11.xmyxc.cn/api/php/yy.php?id=28099939
+#EXTINF:-1 group-title="🇨🇳常看经典频道",yy电视剧一
+http://11.xmyxc.cn/api/php/yy.php?id=1455460998
+#EXTINF:-1 group-title="🇨🇳常看经典频道",电视剧三十五
+http://11.xmyxc.cn/api/php/yy.php?id=1382764587
+#EXTINF:-1 group-title="🇨🇳电影解说频道",牛叔说电影
+https://m.douyu.com/2758565
+#EXTINF:-1 group-title="🇨🇳电影解说频道",牛叔说电影
+https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_900.m3u8?txSecret=93e3e17f18ae8e4fba87414df3d6c2eb&txTime=66f43045&token=h5-douyu-0-2758565-0508ed29f92dd3ef43af556eb30fd124&did=73fa872710b8dac6d47f34ee000017p1&origin=tct&vhost=play1&sid=399567909
+#EXTINF:-1 group-title="🇨🇳电影解说频道",电影最TOP
+https://tx.flv.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.flv?wsSecret=cf5117122603f5bd294cb3fb21cfd2a7&wsTime=66f26696&seqid=6011715390718&ctype=tars_mobile&ver=1&txyp=o%3Az16%3B&fs=bgct&t=103&dMod=mseh-0&sdkPcdn=1_1&uid=4284639781662&uuid=1797870339&t=103&sv=202409061138&sdk_sid=1727075609009&a_block=0
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_鹿哥电影
+http://159.75.85.63:35455/huya/24396360
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_斌哥漫说
+http://159.75.85.63:35455/huya/18632116
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_续哥说电影
+http://159.75.85.63:35455/huya/24396472
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_小川侃电影
+http://159.75.85.63:35455/huya/15870999
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_阿良说剧
+http://159.75.85.63:35455/huya/20488841
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_鱼丸电影
+http://159.75.85.63:35455/huya/16615910
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_阿斗说电影
+http://159.75.85.63:35455/huya/13303478
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_扁豆看电影
+http://159.75.85.63:35455/huya/16028551
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_乌贼说电影
+http://159.75.85.63:35455/huya/16604522
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_大象放映室
+http://159.75.85.63:35455/huya/21277391
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_科幻梦工场
+http://159.75.85.63:35455/huya/15152155
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_亮哥讲电影
+http://159.75.85.63:35455/huya/16144175
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_越哥说电影
+http://159.75.85.63:35455/huya/15894162
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_小冉看电影
+http://159.75.85.63:35455/huya/17341907
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_阿翔说电影
+http://159.75.85.63:35455/huya/16868935
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_虎妞说电影
+http://159.75.85.63:35455/huya/20343144
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_涵哥评电影
+http://159.75.85.63:35455/huya/16865726
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_老皮讲电影
+http://159.75.85.63:35455/huya/16968572
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_默爷侃电影
+http://159.75.85.63:35455/huya/17204307
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_冷君说电影
+http://159.75.85.63:35455/huya/16739452
+#EXTINF:-1 group-title="🇨🇳电影解说频道",解说_恐怖电影解说
+http://159.75.85.63:35455/huya/16741179
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-01综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-02财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-03综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-04中文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-05体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-5+体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-06电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-07军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-08电视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-09纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-10科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-12社会
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-13新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-14少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-16奥林
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉天下",CCTV-17农业
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-1综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-2财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-3综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-4中文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-5体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-5+体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-6电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-7军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-8电视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-9纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-10科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-12社会
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-13新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-14少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-16奥林
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉移动",CCTV-17农业
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-01综合
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-02财经
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-03综艺
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-04中文
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-05体育
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV5-+体育
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-06电影
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-07军事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-08电视剧
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-09记录
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-10科教
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-11戏曲
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-12社会与法
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-13新闻
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-14少儿
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-15音乐
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-16奥林匹克
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央视频道👉IPV6",CCTV-17农业农村
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",大话西游之月光宝盒
+http://kantv.255520.xyz/TV/Film/1995_dahuaxiyouzhiyueguangbaohe.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",色戒
+http://kantv.255520.xyz/TV/Film/2007_sejie.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",放牛班的春天
+http://kantv.255520.xyz/TV/Film/2004_fangniubandechuntian.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",超强台风2008
+http://kantv.255520.xyz/TV/Film/2008_chaoqiangtaifeng.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",非诚勿扰
+http://kantv.255520.xyz/TV/Film/2008_feichengwurao.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",非诚勿扰2
+http://kantv.255520.xyz/TV/Film/2010_feichengwurao.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",裸山
+http://kantv.255520.xyz/TV/Film/2010_luoshan.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",人在囧途
+http://kantv.255520.xyz/TV/Film/2010_renzaitu.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",唐山大地震
+http://kantv.255520.xyz/TV/Film/2010_tangshandadizhen.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",狂蟒惊魂
+http://kantv.255520.xyz/TV/Film/2008_kuangmangjinghun.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",梅兰芳
+http://kantv.255520.xyz/TV/Film/2008_meilanfang.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",我和我的家乡
+http://kantv.255520.xyz/TV/Film/2020_wohewodejiaxiang.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",不见不散
+https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",大腕
+https://vip.ffzy-play6.com/20221019/66_5c1f5d09/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",赌神1
+https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",赌神2
+https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",方世玉
+https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",方世玉续集
+https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",飞龙猛将
+https://vip.ffzy-play6.com/20221207/10806_a4b679fd/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",飞龙再生
+https://vip.ffzy-play6.com/20221019/72_1934eddc/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",飞鹰计划
+https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",疯狂的赛车
+https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",疯狂的石头
+https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",黑侠
+https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",红番区
+https://vip.ffzy-play6.com/20221112/6346_239e11e8/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",甲方乙方
+https://vip.ffzy-play6.com/20221206/10068_4bfccafe/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",精武英雄
+https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",没完没了
+https://vip.ffzy-play6.com/20221129/9376_7f06747a/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",人再囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",人在囧途
+http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",十二生肖
+https://vip.ffzy-play6.com/20221019/191_dba04d04/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",双龙会
+https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",双龙会
+https://vip.ffzy-play6.com/20221112/6064_afbd5214/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",太极张三丰
+https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",我是谁
+https://vip.ffzy-play6.com/20221022/881_da82c5bb/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",笑傲江湖
+https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",笑傲江湖2：东方不败
+https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",英雄
+https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",英雄本色1
+https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",英雄本色2
+https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",长江七号
+https://vip.ffzy-play6.com/20221022/1070_3b7b263a/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",中南海保镖
+https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",纵横四海
+https://vip.ffzy-play7.com/20221112/3463_4e05c55e/index.m3u8
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",神乐剧场
+http://jiaojirentv.top/2020/dy.php?id=85894
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",神乐剧院
+http://jiaojirentv.top/2020/dy.php?id=122402
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",欧美大片
+http://jiaojirentv.top/2020/dy.php?id=2793084
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",贝爷max
+http://jiaojirentv.top/2020/dy.php?id=4332
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",贝爷影厅1
+http://jiaojirentv.top/2020/dy.php?id=252802
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",贝爷影厅2
+http://jiaojirentv.top/2020/dy.php?id=36337
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",邵氏影院
+http://jiaojirentv.top/2020/dy.php?id=4246519
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",瑶瑶恐怖㊣版
+http://jiaojirentv.top/2020/dy.php?id=2935323
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",怡寶影院㊣版
+http://jiaojirentv.top/2020/dy.php?id=434971
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",吃米滴虫
+http://jiaojirentv.top/2020/dy.php?id=315457
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",吃奶滴虫
+http://jiaojirentv.top/2020/dy.php?id=263824
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",冰冰经典
+http://jiaojirentv.top/2020/dy.php?id=74374
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",星爷影院
+http://jiaojirentv.top/2020/dy.php?id=508118
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",华仔影院
+http://jiaojirentv.top/2020/dy.php?id=2516864
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",凌儿影院
+http://jiaojirentv.top/2020/dy.php?id=1377142
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",麓山迷踪
+http://jiaojirentv.top/2020/dy.php?id=4505431
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",小黛兮影
+http://jiaojirentv.top/2020/dy.php?id=11553944
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",萌小鬼片
+http://jiaojirentv.top/2020/dy.php?id=3928
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",可乐影院
+http://jiaojirentv.top/2020/dy.php?id=20415
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",小宇60帧
+http://jiaojirentv.top/2020/dy.php?id=323876
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",恐怖惊悚
+http://jiaojirentv.top/2020/dy.php?id=96577
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",電影劇場
+http://jiaojirentv.top/2020/dy.php?id=7575350
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",豆瓣高分
+http://jiaojirentv.top/2020/dy.php?id=8770422
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",花卷陪看
+http://jiaojirentv.top/2020/dy.php?id=52787
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",漫威影片
+http://jiaojirentv.top/2020/dy.php?id=6140589
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",霍格沃茨
+http://jiaojirentv.top/2020/dy.php?id=8814650
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",鱼宝恐怖
+http://jiaojirentv.top/2020/dy.php?id=1165374
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",贝贝影院
+http://jiaojirentv.top/2020/dy.php?id=431460
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",变种人片
+http://jiaojirentv.top/2020/dy.php?id=9651304
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",喜剧电影
+http://jiaojirentv.top/2020/dy.php?id=9292492
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",女神电影
+http://jiaojirentv.top/2020/dy.php?id=747764
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",避风影院
+http://jiaojirentv.top/2020/dy.php?id=9826611
+#EXTINF:-1 group-title="🇨🇳山西运城频道",山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",黄河电视台
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",山西经济科技
+http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",山西文体生活
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",太原新闻综合
+http://live.cooltv.top/tv/tide.php?id=tyxwzh
+#EXTINF:-1 group-title="🇨🇳山西运城频道",太原经济生活
+http://live.cooltv.top/tv/tide.php?id=tyjjsh
+#EXTINF:-1 group-title="🇨🇳山西运城频道",太原社教法制
+http://live.cooltv.top/tv/tide.php?id=tysjfz
+#EXTINF:-1 group-title="🇨🇳山西运城频道",太原影视
+http://live.cooltv.top/tv/tide.php?id=tyys
+#EXTINF:-1 group-title="🇨🇳山西运城频道",太原文体
+http://live.cooltv.top/tv/tide.php?id=tywt
+#EXTINF:-1 group-title="🇨🇳山西运城频道",太原教育台
+http://live.cooltv.top/tv/tide.php?id=tyjypd
+#EXTINF:-1 group-title="🇨🇳山西运城频道",运城新闻综合
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",运城公共频道
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8$官方
+#EXTINF:-1 group-title="🇨🇳山西运城频道",盐湖频道
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8$官方
