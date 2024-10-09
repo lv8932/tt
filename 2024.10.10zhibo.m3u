@@ -17,6 +17,10 @@ http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 https://gitee.com/lv8932/tt/raw/master/GuYongZhe.mp4
 #EXTINF:-1 group-title="🇨🇳常看经典频道",大风吹
 http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
+#EXTINF:-1 group-title="🇨🇳常看经典频道",“儿子”来了
+https://7451.kstore.space/lv_0_20241009160503.mp4?password=4c53b4c5e41ab4116e4ecfaace39595e-1728476418580
+#EXTINF:-1 group-title="🇨🇳常看经典频道",坑
+https://boot-video.xuexi.cn/video/1004/p/1b354af4a3da7ebe1c5e2508c823a5ad-44dc0cc6f0e742048f922ad6271add88-2.mp4
 #EXTINF:-1 group-title="🇨🇳常看经典频道",左手指月
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/lv8932/tt/refs/heads/main/%E5%B7%A6%E6%89%8B%E6%8C%87%E6%9C%88_%E8%90%A8%E9%A1%B6%E9%A1%B6.mp4
 #EXTINF:-1 group-title="🇨🇳常看经典频道",500首华语经典
@@ -371,8 +375,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 #EXTINF:-1 group-title="🇨🇳经典电影🎬",大话西游之月光宝盒
 http://kantv.255520.xyz/TV/Film/1995_dahuaxiyouzhiyueguangbaohe.m3u8
-#EXTINF:-1 group-title="🇨🇳经典电影🎬",色戒
-http://kantv.255520.xyz/TV/Film/2007_sejie.m3u8
 #EXTINF:-1 group-title="🇨🇳经典电影🎬",放牛班的春天
 http://kantv.255520.xyz/TV/Film/2004_fangniubandechuntian.m3u8
 #EXTINF:-1 group-title="🇨🇳经典电影🎬",超强台风2008
@@ -457,6 +459,8 @@ https://vip.ffzy-play6.com/20221022/1070_3b7b263a/index.m3u8
 https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
 #EXTINF:-1 group-title="🇨🇳经典电影🎬",纵横四海
 https://vip.ffzy-play7.com/20221112/3463_4e05c55e/index.m3u8
+#EXTINF:-1 group-title="🇨🇳经典电影🎬",色戒
+http://kantv.255520.xyz/TV/Film/2007_sejie.m3u8
 #EXTINF:-1 group-title="🇨🇳斗鱼直播",神乐剧场
 http://jiaojirentv.top/2020/dy.php?id=85894
 #EXTINF:-1 group-title="🇨🇳斗鱼直播",神乐剧院
